@@ -2,4 +2,4 @@
 
 ## Available Docker Compose files
 
-* [Kibana](kibana/README.md): including Kibana, Elasticsearch & Metricbeat
+* [Kibana](kibana/): including Kibana, Elasticsearch & Metricbeat
